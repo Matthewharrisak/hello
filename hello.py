@@ -39,5 +39,4 @@ print('Phython3 cool')
 
 # Reverse a string 
 #----------------- 
-txt = "this is so cool! I can't believe I can reverse the string this easily"[::-1]
-print(txt)
+# 
